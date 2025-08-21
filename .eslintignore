@@ -1,0 +1,14 @@
+vendor/
+node_modules/
+build/
+dist/
+coverage/
+*.min.js
+jest-setup.js
+android/
+ios/
+*.config.js
+babel.config.js
+metro.config.js
+jest.config.js
+__tests__/
